@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Nếu bạn sử dụng phần mềm này, vui lòng trích dẫn như sau:"
+authors:
+  - family-names: "Trương"
+    given-names: "Hiếu Nghĩa"
+    affiliation: "Trường Đại học Cần Thơ"
+title: "MIT"
+version: "1.0.0"
+date-released: "2025-10-19"
+license: "MIT"
+url: "https://github.com/thnghia-ctu/MIT"
+keywords:
+  - NLP
+  - Information Extraction
+  - LLM
+  - Automation
